@@ -1,0 +1,4 @@
+This project is based on a financial management problem which every industry needs to face. 
+In this, we have scraped the money control website to gather the Balance Sheet, 
+Profit Loss Statement and Cost Statements so that they can be used for gathering the financial ratios, which will help investors to predict 
+if they should invest in that company or not.
